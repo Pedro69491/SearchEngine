@@ -8,6 +8,6 @@ Main Tools used:
 - Gradle;
 - Simple web services.
 
-Compile and run the application by running
+Compile and run the application by running:
   
   Gradlew run
